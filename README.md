@@ -14,6 +14,7 @@ Features:
 
 Dajango - 4.0.3 <br>
 Architecture Pattern - MTV <br>
+Function-Based Views <br>
 Post agination <br>
 Search bar <br>
 
