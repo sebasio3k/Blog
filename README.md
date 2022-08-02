@@ -12,7 +12,7 @@ This web application developed with Django framework using the MTV (Model Templa
 
 Features:
 
-Dajango - 4.0.3
+Dajango - 4.0.3 <br>
 Architecture Pattern - MTV
 
 
