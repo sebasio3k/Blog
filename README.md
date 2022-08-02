@@ -8,3 +8,13 @@ This web application developed with Django framework using the MTV (Model Templa
 ![Captura de Pantalla 2022-08-02 a la(s) 15 54 46](https://user-images.githubusercontent.com/39862006/182471743-03e4946a-1fd1-41f3-a311-d5985e971fc5.png)
 ![Captura de Pantalla 2022-08-02 a la(s) 15 54 58](https://user-images.githubusercontent.com/39862006/182471763-bcbb6732-5a7f-49e4-a2b8-0b3dd33c6c19.png)
 ![Captura de Pantalla 2022-08-02 a la(s) 15 55 08](https://user-images.githubusercontent.com/39862006/182471769-59086a91-9e19-432f-b80d-f0805279f112.png)
+
+
+Features:
+
+Dajango - 4.0.3
+Architecture Pattern - MTV
+
+
+Take a look: 
+Heroku deploy: https://django-blog-hodev.herokuapp.com/post/gato-videojuego
