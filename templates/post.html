@@ -1,0 +1,27 @@
+{% extends 'index.html' %}
+
+{% load static %}
+
+{% block title %}
+    {{ detalle_post.titulo }}
+{% endblock title %}
+
+{% block imagen_blog %}
+    {{ detalle_post.imagen }}
+{% endblock %}
+
+{% block titulo_principal %}
+    {{ detalle_post.titulo }}
+    <span class="subheading">
+        {{ detalle_post.descripcion }}
+    </span>
+{% endblock titulo_principal %}
+
+{% block barra_busqueda %}
+
+{% endblock barra_busqueda %}
+
+{% block contenido %}
+    {# safe para renderizar codigo html: #}
+    {{ detalle_post.contenido | safe }}
+{% endblock contenido %}
