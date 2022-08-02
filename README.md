@@ -13,7 +13,9 @@ This web application developed with Django framework using the MTV (Model Templa
 Features:
 
 Dajango - 4.0.3 <br>
-Architecture Pattern - MTV
+Architecture Pattern - MTV <br>
+Post agination <br>
+Search bar <br>
 
 
 Take a look: 
